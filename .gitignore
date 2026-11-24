@@ -1,0 +1,9 @@
+# Temporary browser profiles created during local QA
+.qa-chrome/
+.qa-chrome-2/
+.qa-browser/
+
+# Common local editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
