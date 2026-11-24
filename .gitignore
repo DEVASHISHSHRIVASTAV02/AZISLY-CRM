@@ -2,6 +2,7 @@
 .qa-chrome/
 .qa-chrome-2/
 .qa-browser/
+.qa-cdp/
 
 # Common local editor and operating-system files
 .vscode/
