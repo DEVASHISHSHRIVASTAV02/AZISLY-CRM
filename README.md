@@ -2,6 +2,10 @@
 
 A static, single-user EdTech sales CRM built with HTML, CSS, vanilla JavaScript and IndexedDB. It is designed for GitHub Pages and does not need a server or build step.
 
+## Career engagement tracking
+
+Alongside course sales, **Career Engagement** records a lead's progress across Azisly Jobs, MockMate and interview preparation, ResumeArchitect, DomainPrep, Widdya self-paced learning, live certifications, and hackathon/internship pathways. These entries are stored in IndexedDB with the associated customer and a dated activity history.
+
 ## Run locally
 
 Open the folder with a static server (for example VS Code Live Server) and open `index.html`. Modern browsers require HTTP(S), rather than `file://`, for reliable module and IndexedDB behaviour.
